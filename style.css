@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+.blue{
+    background-color: #caf7e3;
+position: relative;
+/* padding-top: 100px; */
+}
+span{
+    text-decoration: underline;
+}
+.cloud1{
+    position: absolute;
+    right: 350px;
+    top: 100px;
+  
+}
+/* .me{
+    position: relative;
+    top: 100px;
+    margin: auto;
+}
+.cloud2{
+    position: absolute;
+    top: 200px;
+}
+.mountain{
+    position:absolute;
+    top: 220px;
+    margin: 0 auto 0 auto;
+} */
